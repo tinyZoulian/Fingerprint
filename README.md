@@ -1,9 +1,13 @@
-Android Fingerprint
 
-一、Fingerprint framework层初始化
+Leon 的博客
 
-二、Fingerprint Hal层初始化
 
-三、Fingerprint 注册流程
+一、Android Fingerprint
 
-四、Fingerprint 识别流程
+  1、Fingerprint framework层初始化
+  
+  2、Fingerprint Hal层初始化
+  
+  3、Fingerprint 注册流程
+  
+  4、Fingerprint 识别流程
